@@ -1,5 +1,6 @@
 body,
-p {
+p,
+button {
   width: 900px;
   margin: 0 auto;
   font-family: 'Playfair Display', serif;
@@ -40,8 +41,9 @@ h2 {
   width: 164px;
   height: 60px;
   display: block;
-  margin: 0 auto;
+  margin-top: 54px;
   margin-bottom: 75px;
+
   font-size: 20px;
   border: 1px solid;
 }
